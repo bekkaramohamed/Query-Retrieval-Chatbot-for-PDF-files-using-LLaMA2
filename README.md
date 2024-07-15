@@ -17,8 +17,8 @@ Whether you're working with medical manuals, technical reports, or any other typ
 
 1. **Clone the GitHub Repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/bekkaramohamed/Query-Retrieval-Chatbot-for-PDF-files-using-LLaMA2.git
+    cd Query-Retrieval-Chatbot-for-PDF-files-using-LLaMA2
     ```
 
 2. **Install Dependencies**:
